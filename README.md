@@ -17,7 +17,7 @@ This project covers:
 
 ## 🔧 Technologies Used  
 - **SQL (PostgreSQL, MySQL, or any RDBMS)**  
-- **Git & GitHub**  
+- **GitHub**  
 - **Draw.io** (for architecture diagrams)  
 - **ETL Pipelines & Stored Procedures**  
 
